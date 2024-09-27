@@ -1,0 +1,4 @@
+# Lista de dependencias
+
+# Ejemplo de dependencia
+# requests
